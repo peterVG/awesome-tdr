@@ -27,5 +27,5 @@ The ISO 16363 "TDR standard" is based on the ISO 14271 Open Archival Information
 
 The accompanying ISO 16919:2014 standard provides "Requirements for Bodies providing Audit and Certification" (see [CCSDS 652.1](https://public.ccsds.org/Pubs/652x1m2.pdf)).
 
-These publications are available for purchase from the [International Organisation for Standardisation](https://www.iso.org/) or as free downloads from the Consultative Committee for Space Data Systems (see links above).
+These publications are available for purchase from the [International Organisation for Standardisation](https://www.iso.org/) or as free downloads from the Consultative Committee for Space Data Systems (see links inline above) which led the standarization efforts immediately preceding ISO formalisation.
 
