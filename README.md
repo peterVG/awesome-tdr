@@ -2,14 +2,11 @@
 List of awesome Trusted Digital Repositories
 
 # About
+"TDR" is a term commonly used in the digital preservation field to refer to a digital repository that has undergone a formal auditing process that is typically based on _ISO 16363:2012 "Space data and information transfer systems -- Audit and certification of trustworthy digital repositories"_
 
-_ISO 16363:2012 "Space data and information transfer systems -- Audit and certification of trustworthy digital repositories"_
+ISO 16363 is a standard for determining the trustworthiness and durability of the information that is stored in a digital repository. 
 
-ISO 16363 is an auditing standard for determining the trustworthiness of content stored in a digital repository. It takes into account a number of technical, organizational, and economic factors to determine whether a given repository can be trusted to deal with long-term threats to the discoverability, usability and authenticity of the digital information objects in its care.
-
-
-
-
+It takes into account a number of technical, organizational, and economic factors to determine whether a given repository can be trusted to deal with long-term threats to the authenticity, usability, and discoverability of the digital information objects in its care.
 
 | Repository | Year | Auditor | Report
 | - | - | - | -
