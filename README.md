@@ -17,6 +17,7 @@ It takes into account a number of technical, organizational, and economic factor
 | [Chronopolis](https://libraries.ucsd.edu/chronopolis/) | 2012 | CRL | [report](https://www.crl.edu/reports/chronopolis-audit-report-2012)
 | [Scholar's Portal](http://scholarsportal.info/) | 2013 | CRL | [report](https://www.crl.edu/reports/scholars-portal-audit-report-2013)
 | [CLOCKSS](https://www.clockss.org/) | 2014 | CRL | [report](https://www.crl.edu/reports/clockss-audit-report-2014)
+| [Northern Arizona University](http://library.nau.edu/) | 2014 | self | [report](http://library.nau.edu/speccoll/pdf/TRAC_report_draft_Final.pdf)
 | [University of North Texas Library](https://digital.library.unt.edu/) | 2015 | self | [report](http://www.library.unt.edu/digital-libraries/trusted-digital-repository)
 | [Canadiana.org](https://canadiana.org) | 2015 | CRL |[report](https://www.crl.edu/reports/certification-report-canadianaorg-digital-repository)
 
