@@ -10,6 +10,7 @@ It takes into account a number of technical, organizational, and economic factor
 
 | Repository | Year | Auditor | Report
 | - | - | - | -
+| [ICPSR](https://www.icpsr.umich.edu/icpsrweb/content/datamanagement/preservation/trust.html) | 2006 | CRL | [report](http://www.crl.edu/sites/default/files/d6/attachments/pages/ICPSR_final.pdf)
 | [MetaArchive](http://metaarchive.org/) | 2010 | self | [report](https://metaarchive.org/wp-content/uploads/2017/03/ma_trac_audit.pdf)
 | [Portico](http://www.portico.org/digital-preservation/) | 2010 | CRL | [report](https://www.crl.edu/reports/portico-audit-report-2010) 
 | [Hathi Trust](https://www.hathitrust.org/) | 2011 | CRL | [report](https://www.crl.edu/reports/hathitrust-audit-report-2011)
