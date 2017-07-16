@@ -1,14 +1,7 @@
 # Awesome TDRs
-A curated list of Trusted Digital Repositories and their audit reports. 
+A curated list of Trusted Digital Repositories and their audit reports
 
 Inspired by the [awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) thing.
-
-# About
-"TDR" is a term used in the digital preservation field to refer to a digital repository that has undergone a formal auditing process. These audits are typically based on _ISO 16363:2012 "Space data and information transfer systems -- Audit and certification of trustworthy digital repositories"_. 
-
-ISO 16363 is a standard for determining the trustworthiness and durability of the information that is stored in a digital repository. 
-
-It takes into account a number of technical, organizational, and economic factors to determine whether a given repository can be trusted to deal with long-term threats to the authenticity, usability, and discoverability of the digital information objects in its care.
 
 | Repository | Year | Auditor | Report
 | - | - | - | -
@@ -19,6 +12,15 @@ It takes into account a number of technical, organizational, and economic factor
 | [CLOCKSS](https://www.clockss.org/) | 2014 | RLG | [report](https://www.crl.edu/reports/clockss-audit-report-2014)
 | [University of North Texas Library](https://digital.library.unt.edu/) | 2015 | self | [report](http://www.library.unt.edu/digital-libraries/trusted-digital-repository)
 | [Canadiana.org](https://canadiana.org) | 2015 | RLG |[report](https://www.crl.edu/reports/certification-report-canadianaorg-digital-repository)
+
+
+# About
+Trusted Digital Repository (TDR) is a term used in the digital preservation field to refer to a digital repository that has undergone a formal auditing process. These audits are typically based on _ISO 16363:2012 "Space data and information transfer systems -- Audit and certification of trustworthy digital repositories"_. 
+
+ISO 16363 is a standard for determining the trustworthiness and durability of the information that is stored in a digital repository. 
+
+It takes into account a number of technical, organizational, and economic factors to determine whether a given repository can be trusted to deal with long-term threats to the authenticity, usability, and discoverability of the digital information objects in its care.
+
 
 # Notes
 
