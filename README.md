@@ -15,11 +15,13 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome/blob/mast
 
 
 # About
-Trusted Digital Repository (TDR) is a term used in the digital preservation field to refer to a digital repository that has undergone a formal auditing process. These audits are typically based on _ISO 16363:2012 "Space data and information transfer systems -- Audit and certification of trustworthy digital repositories"_. 
+Trusted Digital Repository (TDR) is a term used to refer to a library or archive of digital information objects that has undergone a formal audit of its long-term content management and digital preservation capacity. 
 
-ISO 16363 is a standard for determining the trustworthiness and durability of the information that is stored in a digital repository. 
+Such audits are typically based on _ISO 16363:2012 "Space data and information transfer systems -- Audit and certification of trustworthy digital repositories"_. 
 
-It takes into account a number of technical, organizational, and economic factors to determine whether a given repository can be trusted to deal with long-term threats to the authenticity, usability, and discoverability of the digital information objects in its care.
+An ISO 16363 audit is particularly useful for determining the trustworthiness and durability of the information that is stored long-term in a digital repository (e.g. legal evidence, historical accuracy, scientific reproduciblity, verifiable facts, intellectual property, proprietary knowledge, data relevance and ranking, deep learning training, etc).
+
+This standard takes into account a number of technical, organizational, and economic factors to determine whether a given repository can be trusted to deal with long-term threats to the authenticity, usability, and discoverability of the digital information objects in its care.
 
 
 # Notes
