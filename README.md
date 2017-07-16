@@ -1,5 +1,7 @@
 # Awesome TDRs
-List of awesome Trusted Digital Repositories
+A curated list of Trusted Digital Repositories and their audit reports. 
+
+Inspired by the [awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) thing.
 
 # About
 "TDR" is a term used in the digital preservation field to refer to a digital repository that has undergone a formal auditing process. These audits are typically based on _ISO 16363:2012 "Space data and information transfer systems -- Audit and certification of trustworthy digital repositories"_. 
