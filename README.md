@@ -31,6 +31,6 @@ These publications are available for purchase from the [International Organisati
 
 # Disclaimer
 
-I made this list because someone on Twitter suggested it. It is incomplete. Please leave a [pull request](../pulls/) or [file an issue](../issues/) if you would like to add or revise information. 
+I made this list because someone on Twitter suggested it. It is incomplete. Please leave a [pull request](../../pulls/) or [file an issue](../../issues/) if you would like to add or revise information. 
 
 I do not vouch for the accuracy of the information on this list or in the resources and reports that it links to. 
