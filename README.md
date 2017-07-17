@@ -5,13 +5,16 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome/blob/mast
 
 | Repository | Year | Auditor | Report
 | - | - | - | -
-| [Portico](http://www.portico.org/digital-preservation/) | 2010 | RLG | [report](https://www.crl.edu/reports/portico-audit-report-2010) 
-| [Hathi Trust](https://www.hathitrust.org/) | 2011 | RLG | [report](https://www.crl.edu/reports/hathitrust-audit-report-2011)
-| [Chronopolis](https://libraries.ucsd.edu/chronopolis/) | 2012 | RLG | [report](https://www.crl.edu/reports/chronopolis-audit-report-2012)
-| [Scholar's Portal](http://scholarsportal.info/) | 2013 | RLG | [report](https://www.crl.edu/reports/scholars-portal-audit-report-2013)
-| [CLOCKSS](https://www.clockss.org/) | 2014 | RLG | [report](https://www.crl.edu/reports/clockss-audit-report-2014)
+| [ICPSR](https://www.icpsr.umich.edu/icpsrweb/content/datamanagement/preservation/trust.html) | 2006 | CRL | [report](http://www.crl.edu/sites/default/files/d6/attachments/pages/ICPSR_final.pdf)
+| [MetaArchive](http://metaarchive.org/) | 2010 | self | [report](https://metaarchive.org/wp-content/uploads/2017/03/ma_trac_audit.pdf)
+| [Portico](http://www.portico.org/digital-preservation/) | 2010 | CRL | [report](https://www.crl.edu/reports/portico-audit-report-2010) 
+| [Hathi Trust](https://www.hathitrust.org/) | 2011 | CRL | [report](https://www.crl.edu/reports/hathitrust-audit-report-2011)
+| [Chronopolis](https://libraries.ucsd.edu/chronopolis/) | 2012 | CRL | [report](https://www.crl.edu/reports/chronopolis-audit-report-2012)
+| [Scholar's Portal](http://scholarsportal.info/) | 2013 | CRL | [report](https://www.crl.edu/reports/scholars-portal-audit-report-2013)
+| [CLOCKSS](https://www.clockss.org/) | 2014 | CRL | [report](https://www.crl.edu/reports/clockss-audit-report-2014)
+| [Northern Arizona University](http://library.nau.edu/) | 2014 | self | [report](http://library.nau.edu/speccoll/pdf/TRAC_report_draft_Final.pdf)
 | [University of North Texas Library](https://digital.library.unt.edu/) | 2015 | self | [report](http://www.library.unt.edu/digital-libraries/trusted-digital-repository)
-| [Canadiana.org](https://canadiana.org) | 2015 | RLG |[report](https://www.crl.edu/reports/certification-report-canadianaorg-digital-repository)
+| [Canadiana.org](https://canadiana.org) | 2015 | CRL |[report](https://www.crl.edu/reports/certification-report-canadianaorg-digital-repository)
 
 
 # About
