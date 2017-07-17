@@ -16,6 +16,7 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome/blob/mast
 | [University of North Texas Library](https://digital.library.unt.edu/) | 2015 | self | [report](http://www.library.unt.edu/digital-libraries/trusted-digital-repository)
 | [Canadiana.org](https://canadiana.org) | 2015 | CRL |[report](https://www.crl.edu/reports/certification-report-canadianaorg-digital-repository)
 
+Please leave a [pull request](../../pulls/) or [file an issue](../../issues/) if you would like to add or correct information on this list.
 
 # About
 Trusted Digital Repository (TDR) is a term used to refer to a library or archive of digital information objects that has undergone a formal audit of its long-term content management and digital preservation capacity. 
@@ -31,9 +32,3 @@ The ISO 16363 "TDR standard" is based on the ISO 14271 Open Archival Information
 The accompanying ISO 16919:2014 standard provides "Requirements for Bodies providing Audit and Certification" (see [CCSDS 652.1](https://public.ccsds.org/Pubs/652x1m2.pdf)).
 
 These publications are available for purchase from the [International Organisation for Standardisation](https://www.iso.org/) or as free downloads from the Consultative Committee for Space Data Systems (see links inline above) which led the standarization efforts immediately preceding ISO formalisation.
-
-# Disclaimer
-
-I made this list because someone on Twitter suggested it. It is incomplete. Please leave a [pull request](../../pulls/) or [file an issue](../../issues/) if you would like to add or revise information. 
-
-I do not vouch for the accuracy of the information on this list or in the resources and reports that it links to. 
