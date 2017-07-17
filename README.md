@@ -29,3 +29,8 @@ The accompanying ISO 16919:2014 standard provides "Requirements for Bodies provi
 
 These publications are available for purchase from the [International Organisation for Standardisation](https://www.iso.org/) or as free downloads from the Consultative Committee for Space Data Systems (see links inline above) which led the standarization efforts immediately preceding ISO formalisation.
 
+# Disclaimer
+
+I made this list because someone on Twitter suggested it. It is incomplete. Please leave a [pull request](../pulls/) or [file an issue](../issues/) if you would like to add or revise information. 
+
+I do not vouch for the accuracy of the information on this list or in the resources and reports that it links to. 
