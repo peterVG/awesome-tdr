@@ -25,10 +25,13 @@ Such audits are typically based on _ISO 16363:2012 "Space data and information t
 
 An ISO 16363 audit  for determining the trustworthiness and durability of the information that is stored long-term in a digital repository is particularly useful for scenarios involving legal evidence, historical accuracy, scientific reproduciblity, verifiable facts, intellectual property, proprietary knowledge, data relevance and ranking, deep learning training, etc..
 
-# Notes
+## Notes
 
 The ISO 16363 "TDR standard" is based on the ISO 14271 Open Archival Information System standard ("OAIS" see [CCDS 650.0](https://public.ccsds.org/pubs/650x0m2.pdf)) and Trusted Digital Repositories and Audit Checklist ("TRAC" [see CCDS 652.0](http://public.ccsds.org/publications/archive/652x0m1.pdf)). 
 
 The accompanying ISO 16919:2014 standard provides "Requirements for Bodies providing Audit and Certification" (see [CCSDS 652.1](https://public.ccsds.org/Pubs/652x1m2.pdf)).
 
 These publications are available for purchase from the [International Organisation for Standardisation](https://www.iso.org/) or as free downloads from the Consultative Committee for Space Data Systems (see links inline above) which led the standarization efforts immediately preceding ISO formalisation.
+
+# CoreTrustSeal
+Since the release of the ISO 16363 standard, trustworthy data has become a major topic of concern within the research data community. The Research Data Alliance ([RDA](https://www.rd-alliance.org/)) represents over 10,000 members from 145 countries. It has implemented an initiative similar to TDR certification which arguably has had a greater impact on the total volume of data under active care and protection. As of early 2021, it counts over [150 data repositories](https://www.coretrustseal.org/why-certification/certified-repositories/) that have passed its certification process. Like TDR, CoreTrustSeal is focused on assuring users of its collections that its data is authentic, trusthworthy and usable.
