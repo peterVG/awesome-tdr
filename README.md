@@ -8,7 +8,7 @@ Please leave a [pull request](../../pulls/) or [file an issue](../../issues/) if
 # About
 Trusted Digital Repository (TDR) is a term used to refer to a library or archive of digital information objects that has undergone a formal audit of its long-term content management and digital preservation capacity. This helps to assure users of its collections that its data is authentic, trusthworthy and usable.
 
-A TDR audit takes into account a number of technical, organizational, and economic factors to determine whether a given repository can be trusted to deal with long-term threats to the preservation and accesbility of the digital information objects in its care (e.g. datasets, manuscripts, personal papers, business records, photographs, videos, scientific models, datasets, etc).
+A TDR audit takes into account a number of technical, organizational, and economic factors to determine whether a given repository can be trusted to deal with long-term threats to the preservation and accessibility of the digital information objects in its care (e.g. documents, photos, videos, datasets, etc).
 
 Three well-known TDR auditing agencies are the Centre for Research Libraries ([CRL](https://www.crl.edu/)), the Research Data Alliance ([RDA](https://www.rd-alliance.org/)), and the International Organization for Standardization ([ISO](https://www.iso.org/home.html)). Organizations may use the requirements from one of these agencies to do a self-audit as a way to gauge their internal readiness and maturity. To achieve a higer-level of crediblity and accountability, an organization will hire auditors certified by CRL, RDA, or ISO to perform an external audit.
 
